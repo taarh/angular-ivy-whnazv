@@ -4,7 +4,6 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { IntroductionComponent } from './feature/introduction/introduction.component';
 import { FeatureModule } from './feature/feature.module';
 
 @NgModule({
