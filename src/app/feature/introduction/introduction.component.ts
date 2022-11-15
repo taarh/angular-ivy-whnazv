@@ -15,6 +15,7 @@ export class IntroductionComponent implements OnInit {
       name: 'Taoufik',
       prenom: 'ARHALAI',
       addresse: 'Rue capitaine',
+      profession:'Full Stack Developer'
     };
   }
 }
